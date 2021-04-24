@@ -20,7 +20,7 @@
             <p><ion-radio type="radio" id="3" value="3"></ion-radio>
               <ion-label class="ion-text-wrap" >&nbsp;{{question[4]}}</ion-label>
             </p>
-            <p v-if="question[4].length"><ion-radio id="4" value="4"></ion-radio>
+            <p v-if="question[5].length"><ion-radio id="4" value="4"></ion-radio>
               <ion-label class="ion-text-wrap" >&nbsp;{{question[5]}}</ion-label>
             </p>
           </ion-radio-group>
