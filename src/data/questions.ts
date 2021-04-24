@@ -245,8 +245,8 @@ const Questions =
         ],
         [
             "27",
-            "You may never stop your vehicle there.",
             "A no parking sign at a certain location means",
+            "You may never stop your vehicle there.",
             "You may stop temporarily to load or unload passengers.",
             "You may park there if the driver remains in the vehicle.",
             "You may park there if the driver remains in the vehicle.",
@@ -275,7 +275,7 @@ const Questions =
             "A safe speed to drive your car",
             "Is the posted speed limit.",
             "Is less than the posted speed limit.",
-            "Depends on the weather and raod conditions.",
+            "Depends on the weather and road conditions.",
             "Depends on the mechanical skill of the driver.",
             "3"
         ],
@@ -372,16 +372,16 @@ const Questions =
         [
             "41",
             "Before you change lanes, you should:",
-            "Before you change lanes, you should:",
+            "Be sure no one is behind you in your lane",
             "Check your mirrors and look over your shoulder",
-            "Check your mirrors and look over your shoulder",
+            "Never look over your right shoulder",
             "Only check your side mirrors",
             "2"
         ],
         [
             "42",
             "After you have passed a car you should return to the right lane when you",
-            "After you have passed a car you should return to the right lane when you",
+            "See the front bumper of the other car in your mirror.",
             "Have put your turn signal on.",
             "Have turned your headlights on.",
             "See the other car's headlights come on.",
@@ -436,7 +436,7 @@ const Questions =
             "48",
             "If you are repeatedly convicted of a traffic violation:",
             "The DMV may consider an action against your driving privileges",
-            "The DMV may consider an action against your driving privileges",
+            "You may request a hearing",
             "Both of the above may happen",
             "",
             "3"
@@ -474,7 +474,7 @@ const Questions =
             "Looking in your rearview mirror too often",
             "Weaving in and out of traffic",
             "Following too closely",
-            "Following too closely",
+            "Driving too slow",
             "3"
         ]
     ]
