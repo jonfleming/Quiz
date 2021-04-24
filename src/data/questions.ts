@@ -79,7 +79,7 @@ const Questions =
             "a Do Not Enter sign.",
             "a merge sign.",
             "a stop sign.",
-            "3"
+            "4"
         ],
         [
             "9",
@@ -229,8 +229,8 @@ const Questions =
             "25",
             "Which of these statements is true about slippery road surfaces?",
             "Bridges and overpasses freeze last",
-            "Bridges and overpasses freeze last",
-            "On cold, wet days, shad from buildings or trees can hide spots of ice",
+            "Pavements are not slipper the first few minutes after it starts raining on a hot day",
+            "On cold, wet days, shade from buildings or trees can hide spots of ice",
             "Hydroplaning can only happen to trucks",
             "3"
         ],
@@ -245,7 +245,7 @@ const Questions =
         ],
         [
             "27",
-            "A no parking sign at a certain location means",
+            "You may never stop your vehicle there.",
             "A no parking sign at a certain location means",
             "You may stop temporarily to load or unload passengers.",
             "You may park there if the driver remains in the vehicle.",
@@ -275,13 +275,13 @@ const Questions =
             "A safe speed to drive your car",
             "Is the posted speed limit.",
             "Is less than the posted speed limit.",
-            "Depends on the weather and rad conditions.",
+            "Depends on the weather and raod conditions.",
             "Depends on the mechanical skill of the driver.",
             "3"
         ],
         [
             "31",
-            "A safe speed to drive your car",
+            "When you enter traffic from a full stop (e.g. pulling away/from the curb), you:",
             "Should drive slower than other traffic for 200 feet",
             "Need a large enough gap to get up to the speed of traffic",
             "Should wait for the first vehicle to pass, then pull into the lane",
